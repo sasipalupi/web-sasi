@@ -1,0 +1,26 @@
+body{
+  background-color: moccasin;
+}
+#paragraf{
+  text-align: justify;
+}
+.gambar{
+  float: left;
+  margin-right: 24px;
+}
+#satu{
+  clear: both;
+  margin-top: 240px;
+}
+#dua{
+  clear: both;
+  margin-top: 180px;
+}
+#tiga{
+  clear: both;
+  margin-top: 180px;
+}
+#empat{
+  clear: both;
+  margin-top: 180px;
+}
