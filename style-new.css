@@ -1,0 +1,43 @@
+body{
+  background-color: lightgreen;
+}
+
+/* STYLE JUMBOTRON */
+.jumbotron {
+  background-image: url(Ghamster2.jpg);
+  background-size: cover;
+  height: 900px;
+  margin-top: -40px;
+}
+.jumbotron .pertama {
+  margin-top: 100px;
+}
+.jumbotron p {
+  font-size: 20px;
+}
+.jumbotron .btn{
+  color: black;
+  background-color: lightblue;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 25px 10px 25px;
+}
+
+/* STYLE SLIDER */
+.carousel-item .pertama {
+  color:black;
+  margin-top: -440px;
+}
+.carousel-item p {
+  color: black;
+}
+.carousel-item hr {
+  border: none;
+}
+.carousel-item .btn {
+  color: black;
+  background-color: lightblue;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 25px 10px 25px;
+}
