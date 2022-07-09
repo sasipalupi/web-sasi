@@ -1,0 +1,61 @@
+body {
+  background-image: url(bgpink.jpg);
+}
+
+header {
+  background-color: rgb(252, 241, 245);
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  color: hotpink;
+  margin: 23px 70px 0 50px;
+  padding: 10px;
+  font-size: medium;
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+}
+
+section {
+  background-color: white;
+  margin: 130px 200px 10px 200px;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  color: black;
+}
+
+article {
+  margin: 10px;
+  padding: 10px;
+  border-bottom: hotpink solid;
+  border-width: 2px;
+}
+
+footer {
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  font-size: small;
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+}
